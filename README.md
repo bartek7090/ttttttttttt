@@ -1,19 +1,3 @@
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaa
-aaaaaale to jest glupie
-
-
-
-
-
-
-
-
-
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
